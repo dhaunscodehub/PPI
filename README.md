@@ -1,6 +1,6 @@
 # Prediction of Protein–Protein Interactions Based on Integrating Deep Learning and Feature Fusion
 
-**Model name, DF-PPI**
+
 
 **Clone this repo:**
 ```commandline
