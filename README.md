@@ -41,19 +41,3 @@ pip install sentencepiece
    * For experiment on Test datasets, PPI network and Cross-species: `experiment_TEST_sets.py`
    * And orther programs.
 
-_Citation_
-```
-@Article{ijms25115820,
-AUTHOR = {Tran, Hoai-Nhan and Nguyen, Phuc-Xuan-Quynh and Guo, Fei and Wang, Jianxin},
-TITLE = {Prediction of Protein–Protein Interactions Based on Integrating Deep Learning and Feature Fusion},
-JOURNAL = {International Journal of Molecular Sciences},
-VOLUME = {25},
-YEAR = {2024},
-NUMBER = {11},
-ARTICLE-NUMBER = {5820},
-URL = {https://www.mdpi.com/1422-0067/25/11/5820},
-PubMedID = {38892007},
-ISSN = {1422-0067},
-DOI = {10.3390/ijms25115820}
-}
-```
